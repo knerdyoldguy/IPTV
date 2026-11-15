@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBCVancouver-CBUT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/CBUT-DT_Logo.svg" group-title="General",CBC Vancouver
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000041/CBCRCLINEAR_TOR_PTV/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_Calgary_2017.svg/3840px-CBC_Calgary_2017.svg.png" group-title="General",CBC Calgary
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000036/CBCRCLINEAR_TOR_MTC/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCEdmonton-CBXT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/CBXT_CBC_Edmonton_%282017%29.svg/3840px-CBXT_CBC_Edmonton_%282017%29.svg.png" group-title="General",CBC Edmonton
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000038/CBCRCLINEAR_TOR_MTE/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCWinnipeg-CBWT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/CBWT-DT_2017.svg/3840px-CBWT-DT_2017.svg.png" group-title="General",CBC Manitoba
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000041/CBCRCLINEAR_TOR_PTV/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCNewBrunswick-CBAT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/CBAT-DT_2017.svg/3840px-CBAT-DT_2017.svg.png" group-title="General",CBC New Brunswick
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000030/CBCRCLINEAR_TOR_ATF/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCStJohns-CBNT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/3840px-CBNT-DT_2017.svg.png" group-title="General",CBC N
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000026/CBCRCLINEAR_TOR_ATJ/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/CBC_News_Network_%28logo%2C_2021%29.png" group-title="General",CBC News Network
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/1080p-en-cc/index.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/CBC_News_Network_%28logo%2C_2021%29.png" group-title="General",CBC News Toronto
+https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/1080p-en-cc/index.m3u8
+#EXTINF:-1 tvg-id="CBCYellowknife-CFYK.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Current_Logo_for_CBC_North.png" group-title="General",CBC North
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000039/CBCRCLINEAR_TOR_MTN/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCHalifax-CBHT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/CBC_Nova_Scotia_2017.svg/1920px-CBC_Nova_Scotia_2017.svg.png" group-title="General",CBC Nova Scotia
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000031/CBCRCLINEAR_TOR_ATH/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCOttawa-CBOT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/CBOT-DT_%282017%29.svg/3840px-CBOT-DT_%282017%29.svg.png" group-title="General",CBC Ottawa
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000035/CBCRCLINEAR_TOR_ETO/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCPrinceEdwardIsland-CBCT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/1920px-CBCT-DT_2017.svg.png" group-title="General",CBC PEI
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000029/CBCRCLINEAR_TOR_ATC/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/CBMT-DT_logo.svg/3840px-CBMT-DT_logo.svg.png" group-title="General",CBC Montreal
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000034/CBCRCLINEAR_TOR_ETM/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCSaskatchewan-CBKT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/CBC_Saskatchewan.svg/1280px-CBC_Saskatchewan.svg.png" group-title="General",CBC Saskatchewan
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000037/CBCRCLINEAR_TOR_STR/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCToronto-CBLT.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/CBC_Toronto_2017_main.svg/3840px-CBC_Toronto_2017_main.svg.png" group-title="General",CBC Toronto
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000033/CBCRCLINEAR_TOR_ETT/master_3000.m3u8
+#EXTINF:-1 tvg-id="CBCWindsor-CBET.ca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/CBC_Windsor_2017.svg/3840px-CBC_Windsor_2017.svg.png" group-title="General",CBC Windsor
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000032/CBCRCLINEAR_TOR_ETW/master_3000.m3u8
+
+
+
+
